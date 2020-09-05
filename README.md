@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Badge](https://cp-logo.vercel.app/codeforces/-emli-)]
+[![Badge](https://cp-logo.vercel.app/atcoder/emli)]
+
 <!--
 **emli/emli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
