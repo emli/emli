@@ -3,6 +3,9 @@
 [![Badge](https://cp-logo.vercel.app/codeforces/-emli-)]
 [![Badge](https://cp-logo.vercel.app/atcoder/emli)]
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emli)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **emli/emli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
