@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-It sucks to lose but it made me the person I right now. I make mistakes but I keep pushing, keep learning, keep evolving, I keep the belief, I know I'm of the best in the world. Now it's time fight again  @Dustin Diamond Poirier
